@@ -1,0 +1,2 @@
+# DevFind
+DevFind is a project currently in the build stage that focuses on matching employers with developers. In the ordinary sense we can call it a freelance website. But we are building it on the Bitcherry blockchain. The main aim of the project is for transparency as we all know the blockchain is a public ledger and transparent so transactions between the employer and the developer  to be hired is stored on the blockchain and the transactions is transparent in case there wants to be a issue of trust and change in agreement.
